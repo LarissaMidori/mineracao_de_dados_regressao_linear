@@ -1,0 +1,1 @@
+# mineracao_de_dados_regressao_linear
